@@ -1,6 +1,6 @@
 ### Devop
 
-- Update Metamask Integration with listeners [](<>)
+- Update Metamask Integration with listeners [#938](https://github.com/MyEtherWallet/MyEtherWallet/pull/938)
 
 ### Feature
 
